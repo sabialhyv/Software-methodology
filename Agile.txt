@@ -1,0 +1,70 @@
+AGİLE
+
+Agile bir düşüncə tərzidir (mindset). Agile bir metoddan ziyadə bir fəlsəfədir. Daha yaxşı  məhsul ortaya çıxarmaq,  daha yaxşı komanda yaratmaq, müştərilərin tələblərinə daha çevik uyğunlaşmaq, resurslara, vaxta və pula qənaət etmək üçün yaradılmış iş prinsipidir. 
+
+Agile hər hansı texnologiya və ya çərçivə (framework) deyil, metod və ya metadologiya dəstidir. Komandanın necə daha effektiv işləməsi üçün nəzərdə tutulan yanaşmadır. 
+
+Nəinki ölkəmizdə, həmçinin xarici bazarda software development üzrə bir çox layihənin, ideyalarən uğursuz olma səbəbi aşağıdakı problemlərdir.
+- Mühəndis çatışmazlığı
+- Vaxtın düzgün idarə edilməməsi
+- Tələsik yazılan qarışıq kodların (spagetti code) yeniliklərin icrasına mane olması;
+- Layihənin ortasında müştərinin yeni dəyişiklik istəməsinin kabusa çevrilməsi;
+- Tələbin düzgün başa düşülməməsi; istəyin düzgün başa salınmaması;
+
+Bu kimi problemlərə əsasən 2001-ci ildə agile yanaşması, manifestosu ortaya çıxır. 
+
+❓Necə edək ki,
+proqramçılar daha çoxvə effektiv işləsin, , müştəri daha çox məmnun qalsın, daha az vaxt və resursla daha yaxşı məhsul ortaya çıxaraq? 
+
+Agile yanaşmanın 4 dəyəri və 12 əsas prinsipi var.
+
+Agile Manifest :
+
+1. Fərdlər və ünsiyyət 
+    
+    proses və alətlərdən üstündür.
+    
+2. İşləyən proqram 
+    
+    mürəkkəb sənədləşmədən üstündür. 
+    
+3. Müştəri ilə əməkdaşlıq 
+    
+    müqavilə razılaşmalarından üstündür.
+    
+4. Dəyişikliyə cavab vermək 
+    
+    plana əməl etməkdən üstündür.
+    
+
+1. Individuals and interactions **over** 
+    
+    processes and tool
+
+2. Working software **over** 
+    
+    comprehensive documentation
+    
+3. Customer collaboration **over** 
+    
+    contract negotiation
+    
+4. Responding to change **over** 
+    
+    following a plan
+    
+
+Agile manifestin prinsipləri :
+
+1. Dəyərli proqramı erkən və davamlı təqdimat yolu iləmüştərini razı salmaq bizim üçün əsas prioritetdir.
+2. İşin hətta son anlarında tələblərin dəyişməsindən qorxmayın.Çevik proseslər müştərinin razılığı üçün dəyişikliklərdən istifadə edir.
+3. İşləyən proqramı tez-tez, bir neçə həftədən bir neçə aya kimi təqdim edin.Dar zaman müddətlərindən qaçın.
+4. İş adamları və proqramçılar layihə müddətində gündəlik olaraq birgə işləməlidirlər.
+5. Layihələri həvəsli fərdlər ətrafında qurun.Onlar üçün lazımi şərait yaradıb dəstək verin.İşi görəcəklərinə etibar edin.
+6. Proqramlaşdırma komandasına məlumatın ötürülməsi və götürülməsininən effektiv, təsirli üsulu üzbəüz ünsiyyətdir.
+7. İnkişafın əsas göstəricisi işləyən proqramdır.
+8. Çevik proseslər davamlı inkişafı dəstəkləyir.Sponsorlar, proqramçılar və istifadəçilər sabit tempi saxlamağı bacarmalıdırlar.
+9. Texniki mükəmməlliyə və düzgün dizayna davamlı diqqət çevikliyi artırır.
+10. Sadəlik – artıq işin ixtisar edilməsi sənəti – vacibdir.
+11. Öz-özünü idarə edən komandalar ən yaxşı arxitektura, tələblər və dizaynı ortaya qoya bilir.
+12. Bərabər zaman intervallarında komanda öz effektivliyini özü seçməklə daha məhsuldar olur, işini ona uyğun kökləyir.
