@@ -1,0 +1,11 @@
+1. Product Backlog - içərisində son məhsulla bağlı xüsusiyyətlər yerləşdirilir. Product Backlog Product Owner tərəfindən hazırlanır. Əvvəlcə məhsulla bağlı xüsusiyyətlər seçilir, daha sonra bu xüsusiyyətlər məhsul sahibi tərəfindən prioretləşdirilir və beləliklə məhsulla bağlı siyahılar yaradılır. 
+2. Sprint Backlog - xüsusiyyətlərin təsvir edildiyi kiçik user stories yaradılır. Bunlar nədən ibarətdir? 
+    1. as a, …… 
+    2. i need …..
+    3. so that …….
+    
+    burada nümunə olaraq, alıcı olaraq mənim xxx ehtiyacım var, bu səbəblə xxx olmasını istəyirəm. Beləliklə, product owner komandadakı hər kəsin işinin miqdarını müəyyən etmək üçün detalları aydınlaşdırır. 
+    
+    Sprint backlog isə user storylərin prioritetləşdirilmiş halıdır. 
+    
+3. Burndown charts - Sprint backloda olan taskların tamamlanması prosesini, inkişafını göstərən cədvəldir. Burndown Diaqramında üfüqi x oxu vaxtı, şaquli y oxu isə prosesi (məsələləri) göstərir. İşlər görülüb bitirildiyi halda oxun son nöqtəsi sıfırı göstərilməlidir. Əgər qrafikin göstəricisi sıfır deyilsə, o zaman məhsulun yaradılmaıs prosesi bitməmişdir.

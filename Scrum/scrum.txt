@@ -1,0 +1,22 @@
+Scrum çərçivəsi  (framevvrok) əslində agile yanaşmanın tətbiq edilməsi üçün istifadə olanunan çərçivədir. Rugby oyunundan götürülmüşdür. 
+
+## Scrum nədir?
+
+Scrum bizə iterative və incremental yanaşma təklif edir.
+
+Scrum metodunun üç təməl qaydası vardır:
+
+1. **Transparency**; Layihənin gedişatı, problemlər və inkişaflar hər kəsə görünməlidir.
+2. **İnspection**; Layihənin gedişatı mütəmadi olaraq yoxlanılır.
+3. **Adaptation**; Layihə istənilən dəyişikliklərə uyğunlaşa bilməlidir.
+
+## Scrum dəyərləri
+
+1. **Courage - cəsarət**
+2. **Focus - fokuslanmaq**
+3. **Commitment - bağlılıq**
+4. **Respect - sayğı**
+5. **Openness açıqlıq**
+
+
+

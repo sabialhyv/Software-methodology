@@ -1,0 +1,24 @@
+**Əsas məqsədləri :**
+
+- Məhsulun hazırlanmasına hədəflənmiş
+- Çapraz funksional
+- Öz-özünə orqanizasiya
+
+**3 roles :**
+
+1. Scrum Master
+2. Product owner
+3. Developer team
+
+## Product Owner
+
+Məhsulun dəyərini artırır. Product backlogu yaratmaqdan, onu idarə etməkdən, məhsul hədəfini müəyyənləşdirməkdən, product backlog üçün xüsusiyyətləri müəyyən etməkdən, həmin xüsusiyyətləri prioritetləşdirməkdən məsuliyyətli olan və yaradacı olan biridir. Product backlogu görünür, şəffaf və anlaşıqlı etməkdən təhkimlidir. Müştəri ilə developer qrupu arasında əlaqəni təmin edir. 
+
+## Scrum Master
+
+Scrumın düzgün şəkildə işlənməsinə nəzarət edir. Onun rahat sürdürələbilir halda işləməsini təmin edir. Onu həm də servant lider(xidmətkar lider) də adlandırmaq olar. Scrum Master Product Owner ilə birlikdə çalışır. Developer team üçün əslində lider deyil, birbaşa həmin team üzvü hesab olunur. Gördüyü iş komandaya göstərişlər vermək deyil, həmin komandanın daha rahat, problemsiz şəkildə çalışmasına yardım etmək, ehtiyac olduqda əlini daşın altına qoymaqdır. Komandaya coachluq edir. Bütün əngəlləri aradan qaldırmaq, problemləri həll etməyə kömək edir. 
+
+## Developer Team
+
+Bu komanda onlara bir göstərişin verilməsini gözləmir. Özləri işlərini müəyyən edir və həmin işin bitməsi üçün əlindən gələni edir. Komandanın hər bir üzvü son məhsulun ərsəyə gəlməsi üçün çalışır. Bu komandanın üzvləri təkcə proqramçılar deyil, həmçinin database mütəxəsisi, testerlərdən ibarətdir. Ancaq bu işlər komandanın bütün üzvləri köməkli şəkildə yerinə yetirilir. Biz buna çapraz funksional deyirik. Product ovvner ilə işbirliyi içərisindədirlər. 
+
