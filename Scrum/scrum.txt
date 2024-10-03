@@ -20,3 +20,16 @@ Scrum metodunun üç təməl qaydası vardır:
 
 
 
+## Sprint nədir?
+
+Sprint müddəti normalda 2 həftə olaraq dəyişir. Bir sprint bitdikdən sonra digər sprintə keçilir. Sprintin planlaması, daily scrum və s. kimi müxtəlif scrum ceremonies keçirilir. 
+
+Sprint müddəti boyunca:
+
+1. Sprint hədəfinə təhlükə yarada biləcək heç bir dəyişiklik edilməməlidir. (əgər müştəridən yeni bir istək gələrsə, o mütləq sonrakı sprintə ötürülməlidir. Mövcud sprint içərisinə zərurət olmadığı halda tapşırıq əlavə edilməməlidir. )
+2. Keyfiyyət göstərəciləri endirilə bilməz. 
+3. Sprint davam etdikcə,  Product backlog içərisindən götürüldüyünə görə bu hissə daha da anlaşıqlı hala gəlməyə başlayır. Davamlı həmin backlogu yaxşılaşdırmaq istənilə bilər. (refinement)
+4. Daha çox məlumat alındıqca product ovvner ilə layihənin müddəti müzakirə edilir.
+
+
+
