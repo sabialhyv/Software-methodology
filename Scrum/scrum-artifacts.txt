@@ -1,11 +1,36 @@
-1. Product Backlog - içərisində son məhsulla bağlı xüsusiyyətlər yerləşdirilir. Product Backlog Product Owner tərəfindən hazırlanır. Əvvəlcə məhsulla bağlı xüsusiyyətlər seçilir, daha sonra bu xüsusiyyətlər məhsul sahibi tərəfindən prioretləşdirilir və beləliklə məhsulla bağlı siyahılar yaradılır. 
-2. Sprint Backlog - xüsusiyyətlərin təsvir edildiyi kiçik user stories yaradılır. Bunlar nədən ibarətdir? 
-    1. as a, …… 
-    2. i need …..
-    3. so that …….
-    
-    burada nümunə olaraq, alıcı olaraq mənim xxx ehtiyacım var, bu səbəblə xxx olmasını istəyirəm. Beləliklə, product owner komandadakı hər kəsin işinin miqdarını müəyyən etmək üçün detalları aydınlaşdırır. 
-    
-    Sprint backlog isə user storylərin prioritetləşdirilmiş halıdır. 
+Hər bir artifacts inkişafı, irəliləməni ölçmək, və fokuslanmanı artırdığından əmin olmaq üçün bir öhdəliyi ehtiva edir.
+
+Product Backlog üçün bu Məhsul Hədəfidir.
+
+Sprint Backlog üçün bu Sprint Hədəfidir.
+
+İncrement üçün bu Bitti Tərifidir.
+
+1. İçərisində son məhsulla bağlı xüsusiyyətlər yerləşdirilir. Hər kəsə açıq və əlçatandır. Product Backlog Product Owner tərəfindən hazırlanır. Əvvəlcə məhsulla bağlı xüsusiyyətlər seçilir, daha sonra bu xüsusiyyətlər məhsul sahibi tərəfindən prioretləşdirilir və beləliklə məhsulla bağlı siyahılar yaradılır. Sprint backlog, sprint planlama zamanı buradan doldurulur.  Hər bir xüsusiyyət eforlanmışdır. Bu proses developer komandasının bu iş üçün ölçdüyü zamandır. İşlərin miqdarını böyük və ya kiçik olduğunu müəyyənləşdirir. 
+Öhdəlik : Məhsulun Hədəfi 
+
+Məhsul hədəfi scrum team üçün uzun müddətli bir hədəfdir.
+
+Product backlog məhsul hədəfini yerinə gətirmək üçün getdikcə formaya salınır. 
+
+Eforlama (Story Point) bəzən t shirt sizing metodu ilə hesablanır. işlərin böyüklüyü müəyyən aralıqlara əsasən bölünür. Burada ortaya çıxan problemlər vardır. İşin miqdarı hesablandığı zaman komandadakı üzvlərə görə bu miqdar fərqlilik göstərə bilər. O zaman fibonaççi sırasından istifadə edilir. Komandanın bir üzvü nəyə görə bu işə 9 (məsələn) verdiyini, digər üzvü isə nəyə görə bu işə 13 verdiyini izah edir. 
+
+T shirt size XL olduğunda buna epic deyilir. Modul və ya bölüm də demək olar.
+2. Sprint Product backlog içərisindən seçilmiş, prioritetləşdirilmiş tasklar toplusudur. Sprint backlog developer team tərəfindən hazırlanır. İterasiyanı yaratmaq üçün istifadə olunan plandan ibarətdir. Sprint hədəfi (sprint goal) sprint planlamada müəyyən edilir. Əlbəttə ki bu sprint goal hər kəsə açıq, əlçatan olur. Xüsusiyyətlərin təsvir edildiyi kiçik user stories yaradılır. Bunlar nədən ibarətdir? 
+
+1. as a, …… 
+2. i need …..
+3. so that …….
+
+burada nümunə olaraq, alıcı olaraq mənim xxx ehtiyacım var, bu səbəblə xxx olmasını istəyirəm. Beləliklə, product owner komandadakı hər kəsin işinin miqdarını müəyyən etmək üçün detalları aydınlaşdırır. Sprint backlog isə user storylərin prioritetləşdirilmiş halıdır. 
+
+<aside>
+🔑
+
+**Bəs increment tam olaraq nədir?**
+
+İncrement məhsul hədəfinə doğru atılan konkret bir addımdır. İncrementlər sprint review iclasında təqdim edilir. DONE (definition of done) anlayışına uyğun olan işlər incrementin bir parçası hesab edilir. DONE anlayışının tərifi (definition) hamıya görə eyni olmalıdır. Əgər PBİ (product backlog increment) - DofD -a uyğun deyilsə, o zaman review iclasında təqdim edilməz. 
+
+</aside>
     
 3. Burndown charts - Sprint backloda olan taskların tamamlanması prosesini, inkişafını göstərən cədvəldir. Burndown Diaqramında üfüqi x oxu vaxtı, şaquli y oxu isə prosesi (məsələləri) göstərir. İşlər görülüb bitirildiyi halda oxun son nöqtəsi sıfırı göstərilməlidir. Əgər qrafikin göstəricisi sıfır deyilsə, o zaman məhsulun yaradılmaıs prosesi bitməmişdir.
