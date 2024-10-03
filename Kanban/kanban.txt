@@ -1,0 +1,19 @@
+Kandan da scrum kimi bir Agile frameworku hesab olunur. Kanbanda work in progress sistemi ilə tasklar yerinə yetirilir. Kanbanda ready for dev olan işlər developerlər tərəfindən görülməyə başlayır. Eyni anda bir neçə iş görülə bilər. Scrumda olduğu kimi bir sprintə başlamaq üçün digərinin bitməsi gözlənilmir. Təbii ki, burada da work limit termini ortaya çıxır. Eyni anda bir neçə iş görülə bilər, bəli. Bəs tam olaraq neçə iş? Bu iş limiti kanban boardda yerləşdirilir. 
+
+Kanbanda dəqiq bir zaman müddəti yoxdur. Aşağıdakı şəkildə göstərildiyi kimi **work** **in progress (WIP )** bölümündə iş limiti 3, **review** bölümündə 3, **test** bölümündə isə 1-dir. 
+
+Sütunlar:
+
+1. backlog - Todo
+2. for development
+3. in progress
+4. Done 
+
+Burada işçi sayına görə iş bölünməsi edilir. (work limit) Əgər test hissə boşdursa, yoxlanılmaq üçün hər hansı task yoxdursa, hər hansı bir irəliləmə yoxdursa, demək ki, ya test hissədə çox tester var, hazırlanan tasklar dərhal test edilir, ya da development hissədə az developer var. 
+
+<aside>
+💡
+
+### Scrum Master - Agile Coach
+
+</aside>
