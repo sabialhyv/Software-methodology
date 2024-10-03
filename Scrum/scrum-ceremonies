@@ -1,0 +1,44 @@
+## 🔸Sprint planlam
+
+Hər bir sprintə başlamadan əvvəl sprint planlama iclası keçirilir.  İlk öncəliklə ümumilikdə işi əhatə edən product backlog product owner  tərəfində hazırlanır.  4 həftə içərisində icra olunacaq bir sprint hazırlanır. Həmin sprintə kimlər əlçatanlıq əldə edə bilər?
+
+Scrum Master, Product owner, development team and others
+
+**Sprint Goal** - Buradakı əsas məsələ bir sprintin sonunda nə əldə ediləcək, ortaya nə çıxacaq və biz müştəriyə nə təqdim edəcəyik?
+
+**Sprint Backlog** - Product backlog içərisində 100-dən çox item (görüləcək iş) ola bilər. Buradan icrası ən önəmli və vacib olan itemlər seçilib sprint backlogu yaratmış olur.   
+
+## 🔹Daily Scrum
+
+Development teamın öz- özünü orqanizasiya edə bilən bir komanda olduğunu demişdik. Daily scrum development teamın keçirdiyi 10-15 dəqiqəlik ayaqüstə olan iclaslardır. Hansı ki, bu iclaslarda gün ərzində görüləcək işlər sinxronlaşdırılır. 
+
+1. Bu görüş ayaqüstü qısa keçirilir. Müddəti 15 dəqiqə və daha az olmalıdır.
+2. Görüşdə bütün komandanın iştirakı vacibdir, lakin komandadan bir neçə nəfərə olmazsa belə, bu iclas mütləq keçirilir. Burada development team, scrum master, product owner və başqaları iştirak edir. Burada kimlərin iştirak etmə haqqı olduğunu team müəyyənləşdirir. Əgər team rahat hiss etməzsə, product owner və digərləri iştirak etmir. 
+3. Görüşdə aşağıdakı mövzular üzrə danışılır:  
+    1. keçən gün hansı işlər görüldü?
+    2. bu gün hansı işlər görülməli?
+    3. işin görülməsinə çətinlik yaradacaq hansı maneələr var? (hər bir komanda üzvü qarşılaşdığı maneə haqqında məlumat verir. Beləliklə scrum master bizim problemimizi həll edir, həll edə bilməzsə, bir üst mərtəbəyə bu problem ötürülür.)
+    4. hər bir komanda üzvü gördüyü işlər haqqında ümumi məlumatlar verə bilər, beləliklə sprint backlogu update etmiş olarlar. 
+    5. eyni zamanda görülən işlərə əsasən burndovvn chart tənzimlənir, işlər azalır və bu cədvəl üzərində qeyd edilir. 
+
+## 🔸Sprint Review
+
+Sprintlə aparılan işlərin incremental (artımlı) olduğunu bilirik. Hər bir incrementin sonunda məhsulun lazım olan işlək ola biləcək bir hissəsi müştəriyə təqdim edilir.  Bu iclas 2-4 saat arası keçirilir. İclasda iştirak edənlər development team, scrum master, product owner və başqalarıdır.
+
+1. “Done” funksionallığı - hrə hansı bir komanda üzvünə görə tamamlanmış bir iş. Hansı ona bitdi deyilməsi üçün tanımlanması lazımdır. Testlərdən keçməlidir, qeyd edilən qaydalara, şərtlərə uyğunlaşırsa, demək ki developer üçün done olan iş bizim üçün də done olmuş olur.
+2. updated product backlog və burn-up chart görülən işə, incrementə əsasən backlog yenilənir və chart dəyişdirilir.
+3. next sprint planning date - yeni sprint planlaması üçün vaxt seçilir.
+
+Bu iclasın əsas məqsədi komandaya görə tamamlanmış sprintin gözdən keçirilməsi, əgər məhsul bütün xüusiyyətlərə uyğundursa, prosesin tamamlanması deməkdir.
+
+## 🔹Sprint Retrospective
+
+Bu iclasın ortalama apardığı müddət yarım saat və 3 saat arası dəyişə bilir. 
+
+1. how was work? - iş necə idi?
+2. what was good? -  nə yaxşı idi?
+3. what could be improved? -  nəyi daha da yaxşılaşdıra bilərik?
+
+Action item -  əvvəlki sprintdə qarşılaşdığımız problem
+
+Məsələn, tərtib edilmiş chart incremental şəkildə azalmaqdansa, 6-cı gündən sonra birdən azalmağa başlayıb, yəni 6-cı günədək əllə tutulur bir iş görülməyib. Bu istənilməyən bir nüansdır.
